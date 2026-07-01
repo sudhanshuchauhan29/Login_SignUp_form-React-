@@ -1,16 +1,95 @@
-# React + Vite
+# React Login & Signup Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive Login & Signup page built using **React.js**. This project demonstrates component-based UI development, state management, and responsive design for authentication interfaces.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern and clean user interface
+- Login and Signup forms
+- Toggle between Login and Signup
+- Responsive design
+- Reusable React components
+- CSS styling with smooth hover effects
+- User-friendly input fields with icons
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+- Vite
 
-## Expanding the Oxlint configuration
+## 📁 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```
+├── public/
+├── src/
+│   ├── Assets/
+│   ├── Components/
+│   │   ├── Login_SignUp.jsx
+│   │   └── Login_SignUp.css
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+```
+
+## 📦 Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/react-login-signup-ui.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd react-login-signup-ui
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+5. Open your browser and visit
+
+```
+http://localhost:5173
+```
+
+## 🎯 Future Improvements
+
+- Form validation
+- Password visibility toggle
+- Firebase Authentication
+- Backend integration
+- Forgot Password functionality
+- Dark mode support
+- Responsive animations
+
+## 📸 Preview
+
+Add screenshots or a GIF of the application here.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+Made with ❤️ using React.
