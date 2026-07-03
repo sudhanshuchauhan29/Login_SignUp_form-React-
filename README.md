@@ -41,7 +41,7 @@ A modern and responsive Login & Signup page built using **React.js**. This proje
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-login-signup-ui.git
+git clone https://github.com/sudhanshuchauhan29/Login_SignUp_form-React-.git
 ```
 
 2. Navigate to the project directory
