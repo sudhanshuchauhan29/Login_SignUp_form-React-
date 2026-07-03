@@ -47,7 +47,7 @@ git clone https://github.com/sudhanshuchauhan29/Login_SignUp_form-React-.git
 2. Navigate to the project directory
 
 ```bash
-cd react-login-signup-ui
+cd Login_SignUp_form-React-
 ```
 
 3. Install dependencies
